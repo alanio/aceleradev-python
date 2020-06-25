@@ -1,4 +1,6 @@
-# Acelera Dev Codenation - Python 
+![Badge](https://img.shields.io/static/v1?label=Python&message=Codenation&color=purple&style=plastic&logo=Python)
+
+# Acelera Dev Codenation - Python 2020/05
 
 ### [Modulo 1](/python-5) - Desafio Programação Funcional
 
@@ -6,7 +8,7 @@
 
 ### [Modulo 3](/python-7) - Desafio de programação orientada a testes
 
-### Modulo 4 - Desafio sobre Backend Skills
+### [Modulo 4](/python-8) - Desafio sobre Backend Skills
 
 ### Modulo 5 - Desafio Data Design
 
