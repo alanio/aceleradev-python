@@ -10,7 +10,10 @@
 
 ### [Modulo 4](/python-8) - Desafio sobre Backend Skills
 
-### Modulo 5 - Desafio Data Design
+### [Modulo 5](/python-9) - Desafio Data Design
+
+### [Modulo 6](/python-10) - Desafio REST API
+
 
 
 
