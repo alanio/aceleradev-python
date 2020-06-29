@@ -14,6 +14,8 @@
 
 ### [Modulo 6](/python-10) - Desafio REST API
 
+### [Modulo 7](/python-11) - Desafio ORM query
+
 
 
 
