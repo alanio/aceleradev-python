@@ -2,23 +2,22 @@
 
 # Acelera Dev Codenation - Python 2020/05
 
-### [Modulo 1](/python-5) - Desafio Programação Funcional
+### [Modulo 1- Desafio Programação Funcional](/python-5) 
 
-### [Modulo 2](/python-6) - Desafio de programação orientada a objetos
+### [Modulo 2- Desafio de programação orientada a objetos](/python-6) 
 
-### [Modulo 3](/python-7) - Desafio de programação orientada a testes
+### [Modulo 3- Desafio de programação orientada a testes](/python-7) 
 
-### [Modulo 4](/python-8) - Desafio sobre Backend Skills
+### [Modulo 4- Desafio sobre Backend Skills](/python-8) 
 
-### [Modulo 5](/python-9) - Desafio Data Design
+### [Modulo 5- Desafio Data Design](/python-9) 
 
-### [Modulo 6](/python-10) - Desafio REST API
+### [Modulo 6 - Desafio REST API](/python-10)
 
-### [Modulo 7](/python-11) - Desafio ORM query
+### [Modulo 7 - Desafio ORM query](/python-11)
 
+### [Modulo 8 - Desafio RESTful API Modeling Language (RAML)](/python-12)
 
-
-
-
+### [Modulo 9 - Desafio Continuous integration](/python-13)
 
 
